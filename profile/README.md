@@ -52,12 +52,6 @@ One of my Python / Discord experiments.
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,html,css,js,mysql,git,github,linux,nginx" />
 </p>
-
-### 🧰 Stuff I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,html,css,js,mysql,git,github,linux,nginx" />
-</p>
 ---
 
 <div align="center">
