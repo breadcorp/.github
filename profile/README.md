@@ -53,13 +53,11 @@ One of my Python / Discord experiments.
   <img src="https://skillicons.dev/icons?i=php,python,html,css,js,mysql,git,github,linux,nginx" />
 </p>
 
-### 📊 GitHub
+### 🧰 Stuff I use
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=breadcorp&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadcorp&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://skillicons.dev/icons?i=php,python,html,css,js,mysql,git,github,linux,nginx" />
 </p>
-
 ---
 
 <div align="center">
