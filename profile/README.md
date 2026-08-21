@@ -8,7 +8,7 @@ I build web apps, self-hosted tools, bots and random things
 that seemed like a good idea at 2 AM.
 
 [![Website](https://img.shields.io/badge/breads.trade-website-111111?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://breads.trade/)
-[![Log Book](https://img.shields.io/badge/log--book.org-project-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://log-book.org/)
+
 [![Instagram](https://img.shields.io/badge/@bread__corporation-Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/bread_corporation/)
 
 </div>
